@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/obajuluwa3/Node-api-OMDB/issues"
   },
-  "homepage": "https://github.com/obajuluwa3/Node-api-OMDB#readme"
+  "homepage": "https://github.com/obajuluwa3/Node-api-OMDB#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
 }
