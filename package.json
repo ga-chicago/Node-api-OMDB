@@ -1,0 +1,22 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "NODE API OMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obajuluwa3/Node-api-OMDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obajuluwa3/Node-api-OMDB/issues"
+  },
+  "homepage": "https://github.com/obajuluwa3/Node-api-OMDB#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
